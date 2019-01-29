@@ -1,2 +1,3 @@
 # basicpy
-Python basic stuff
+Python basic stuff for beginner.
+Some basic programs or projects.

@@ -1,0 +1,2 @@
+# basicpy
+Python basic stuff
